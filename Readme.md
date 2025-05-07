@@ -30,6 +30,7 @@ Create and activate a virtual environment:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+
 ```
 
 Install the required packages:
@@ -54,7 +55,7 @@ python gui_sys_management.py
 * If you're already authenticated in the terminal session, the password input will be accepted regardless of correctness (due to cached authentication).
 * If not authenticated, an incorrect password will result in an error.
 
-![Sudo Prompt Image](./media/enter_sudo_password.png) <!-- Replace # with actual image URL -->
+![Sudo Prompt Image](./media/enter_sudo_password.png) 
 
 ---
 
@@ -76,7 +77,7 @@ After successful authentication:
    * The **Execute** button becomes active.
 5. Optionally check **"Send email notification when done"** to notify a sysadmin. You’ll be prompted to enter their email address.
 
-![UI Preview Image](./media/gui_display.png) <!-- Replace # with actual image URL -->
+![UI Preview Image](./media/gui_display.png)
 
 ---
 
@@ -84,7 +85,7 @@ After successful authentication:
 
 Watch the app in action:
 
-[![Watch the video](#)](/media/gui_pyqt5.gif) <!-- Replace # with actual video link -->
+[![Watch the video](#)](/media/gui_pyqt5.gif) 
 
 ---
 

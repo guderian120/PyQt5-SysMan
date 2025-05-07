@@ -7,8 +7,8 @@ from email.mime.text import MIMEText
 from email.message import EmailMessage
 from datetime import datetime
 
-from_email = "andyprojects7@gmail.com"  # Replace with your email address
-password = "ifho cyae dpin cwew"  # Replace with your email password (or app password if 2FA is enabled)
+from_email = "andyprojects7@gmail.com"  
+password = "ifho cyae dpin cwew"  # my google app password, will expire soon
 body = 'Please find the attached log file.'
 
 def send_email_to_admin(log_file_path, to_email):
