@@ -12,6 +12,8 @@ This project provides a graphical user interface (GUI) built with **PyQt5**, des
 * Optional email notification to system administrators
 * Clean and responsive PyQt5 interface
 
+> ⚠️ This project is intended to run on **Linux systems only** (preferably Ubuntu) and assumes the executing environment has appropriate privileges (sudo access).
+
 ---
 
 ## 🛠️ Installation & Setup
